@@ -1,0 +1,19 @@
+{
+  "name": "functions-graphics",
+  "version": "1.0.0",
+  "description": "Funny box drawing functions graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "75009@wrn"
+  ],
+  "author": "Vandal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mathjs": "^13.1.1"
+  }
+}
